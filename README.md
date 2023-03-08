@@ -1,15 +1,16 @@
 Hi, I’m @JenArmenta!
 
-I am a techie coach, writer, leader and certified Scrum Master. 
+I am a techie empath... writer, editor, leader... certified scrum master and process maven!
 
 I have completed the Front End Developer Training Program through Skillcrush, where I learned HTML, CSS, Git, GitHub, and Responsive design. I also learned the basics of JavaScript and React.
 
-As a writer and editor, I have over seven years of experience on various projects, including training materials, company handbooks, presentations, articles and web content. Three years of that time was spent editing technical audit reports for industrial smelters who were non-native English speakers. 
+My gift is my empathy and strong emotional intelligence, as well as my writing, communication, and technical skills. 
 
-I have a passion for helping teams and individuals thrive by creating a safe environment that fosters team growth and collaboration.
+I have 10 years of experience writing and editing. Five of these years were writing/editing technical documents, including SOPs, training manuals, reports and software documentation. 
 
-More about me... I am mom, wife, empath, and geek. I love table-top role playing games, beer flights, goth music and darkwave.
+More about me... I am mom, wife, and geek. I love table-top role playing games, beer flights, goth music and darkwave.
 
 You can reach me at jenarmenta@gmail.com.
+
 
 
