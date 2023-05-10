@@ -15,7 +15,7 @@ I have completed the Front End Developer Training Program through Skillcrush, wh
   * Expertise in translating complex ideas and processes into simple, easy to understand terms. 
  
 **PERSONALLY:**
-I am a wife, mom and geek. I love table-top role playing games, beer flights, and darkwave.
+I am a wife, mom and geek. I love table-top role playing games, beer flights, darkwave and continuously learning new things!
 
 You can reach me at jenarmenta@gmail.com.
 
