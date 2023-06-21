@@ -1,6 +1,6 @@
 Hi, I’m @JenArmenta!
 
-I am a leader, coach, manager and technical writer!
+I am a writer, editor, leader and manager!
 
 My gifts are my communication, organizational, writing, and technical skills; as well as my strong emotional intelligence.
 
@@ -10,7 +10,7 @@ I have completed the Front End Developer Training Program through Skillcrush, wh
   HIGHLIGHTS
   * Recognized for my outstanding interpersonal and communication skills.
   * Ability to work effectively with cross functional teams, at all organizational levels. 
-  * Highly skilled technical writer, proficient with delivering accurate, high-quality documentation. 
+  * Highly skilled writer, proficient with delivering accurate, high-quality documentation. 
   * Proven ability for creating SOP’s, training manuals, reports, and software user guides. 
   * Expertise in translating complex ideas and processes into simple, easy to understand terms. 
  
