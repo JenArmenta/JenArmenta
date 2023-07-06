@@ -1,8 +1,8 @@
 Hi, I’m @JenArmenta!
 
-I am a writer, editor, leader and manager!
+I am a writer, editor, and leader!
 
-My gifts are my communication, organizational, writing, and technical skills; as well as my strong emotional intelligence.
+My gifts are my strong emotional intelligence, as well as my writing and organizational skills.
 
 **PROFESSIONALLY:**
 I have completed the Front End Developer Training Program through Skillcrush, where I learned HTML, CSS, Git, GitHub, and Responsive design. I also learned the basics of JavaScript and React.
