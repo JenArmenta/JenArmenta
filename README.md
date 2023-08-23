@@ -1,6 +1,6 @@
 Hi, I’m @JenArmenta!
 
-I am a writer, editor, and leader!
+I am a coach, writer, editor, and leader!
 
 My gifts are my strong emotional intelligence, as well as my writing and organizational skills.
 
