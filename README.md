@@ -1,6 +1,6 @@
 Hi, I’m @JenArmenta!
 
-I am a Salesforce enthusient, who loves improving processes! 
+I am a Salesforce enthusiast, who loves improving processes! 
 
 My superpower is my unique blend of technical expertise and my empathy.
 
