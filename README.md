@@ -8,7 +8,7 @@ My superpower is my unique blend of technical expertise and my empathy, and abil
 I am a Technical Writer, certified Salesforce Administrator and I love learning new software and platforms!
 I have completed the Front End Developer Training Program through Skillcrush, where I learned the basics of HTML, CSS, Git, GitHub, and Responsive design.
 
-  * Extensive experience writing software documentation, process documentation, workflow maps, SOPs, user manuals, training and onboarding guides, and knowledge base materials
+  * Extensive experience writing software documentation, process documentation, workflow maps, SOPs, user manuals, training and onboarding guides, and knowledge base materials.
   * Recognized for my outstanding interpersonal and communication skills.
   * Ability to work effectively with cross functional teams, at all organizational levels.
   * I bring structure, clarity, and positive energy to every project I work on!  
